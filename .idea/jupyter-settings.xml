@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="39dbfb568befcb2acf4593473fe2f76e113f8ec06afcdb9e" />
+          <option name="urlString" value="http://127.0.0.1:8890/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="39dbfb568befcb2acf4593473fe2f76e113f8ec06afcdb9e" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8889" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="39dbfb568befcb2acf4593473fe2f76e113f8ec06afcdb9e" />
+          <option name="urlString" value="http://localhost:8890/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="39dbfb568befcb2acf4593473fe2f76e113f8ec06afcdb9e" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../vladt/Algoritmica/atestat/Handwritten-Recognizer/.idea/Handwritten-Recognizer.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/miniconda3/envs/metal/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
